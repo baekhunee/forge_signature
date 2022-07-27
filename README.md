@@ -11,6 +11,10 @@ forge a signature to pretend that you are Satoshi
 
 git账户名称：baekhunee
 
+# 运行指导
+
+代码可以直接运行
+
 # 实验思路
 
 ## ECDSA验签过程
